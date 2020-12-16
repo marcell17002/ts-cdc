@@ -1,0 +1,7 @@
+<resources>
+<<<<<<< HEAD
+    <string name="app_name">TS CDC</string>
+=======
+    <string name="app_name">TS-CDC</string>
+>>>>>>> e1ba49294fbf8c235e86146a4be3bba1f00b36df
+</resources>
